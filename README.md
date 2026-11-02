@@ -23,3 +23,5 @@ W is the only button
 have fun!
 (=
 <img width="874" height="571" alt="Screenshot 2026-10-18 212539" src="https://github.com/user-attachments/assets/82103df1-cc5b-4511-9518-33f11c519e91" />
+
+Note: the StepGame.ino was replaced with the DaddyLongLegs.ino file, they are the same thing!
