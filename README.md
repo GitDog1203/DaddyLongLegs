@@ -71,7 +71,9 @@ Replace `PATH_TO_FIRMWARE.bin` with the full path to your downloaded `.bin` file
 - **W:** Main game button
 
 Have fun! (=
-https://youtu.be/QfPZ_8-vjX0?si=ZY2NQLE3qIx7xw1Y
+
+Here's a Video: https://youtu.be/QfPZ_8-vjX0?si=ZY2NQLE3qIx7xw1Y
+
 ![DaddyLongLegs gameplay screenshot](https://github.com/user-attachments/assets/82103df1-cc5b-4511-9518-33f11c519e91)
 
 **Note:** `StepGame.ino` was replaced with `DaddyLongLegs.ino`. They are the same project; the file was renamed!
